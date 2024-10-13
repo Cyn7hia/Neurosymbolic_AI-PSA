@@ -1,0 +1,15 @@
+[Goal]: I want to categorize the given object according to their ideology in the Harry Potter book series.
+Please suggest a description from 6 aspects, one in a line, starting with "-" and surrounded by quotes"". For example:
+- "Equality and Inclusivity, Reform, Utilitarianism, Knowledge, Loyalty and Community, Pragmatism"
+
+Do not output anything else.
+
+The following 6 lines show the ideology from 6 aspects. You may choose 6 words for 6 aspects (1 from each line) in the following list:
+Equality and Inclusivity vs. inequality and exclusivity
+Reform vs. Satus Quo
+Utilitarianism vs. Moral Absolutism
+Knowledge vs. Ignorance
+Loyalty and Community vs. disloyalty and individualism
+Pragmatism vs. Idealism
+
+Please categorize {sample_in_prompt} according to their ideology in the Harry Potter book series.

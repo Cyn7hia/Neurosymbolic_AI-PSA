@@ -1,0 +1,10 @@
+[Goal]: I want to categorize the given object according to their cultural backgrounds (e.g., four houses of Hogwarts School of Witchcraft and Wizardry) in the Harry Potter book series.
+Please suggest a description, one in a line, starting with "-" and surrounded by quotes"". For example:
+- "Gryffindor"
+
+Do not output anything else.
+
+You may choose only one culture background from the following list:
+[Gryffindor, Slytherin, Hufflepuff, Ravenclaw, England, Scotland, Wales, Irish, French, Bulgarian, India, African, Romani, Middle Eastern, USA]
+
+Please categorize {sample_in_prompt} into one cultural background in the Harry Potter book series.

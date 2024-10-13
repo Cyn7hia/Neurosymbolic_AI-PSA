@@ -1,0 +1,19 @@
+[Goal]: I want to categorize the given object according to their religious beliefs in the Harry Potter book series.
+Please suggest a description from 10 aspects, one in a line, starting with "-" and surrounded by quotes"". For example:
+- "Good, Love, Acceptance_Death, Sacrifice, Redemption, Impartiality, Tolerance, Courage, Faith, Responsibility"
+
+Do not output anything else.
+
+The following 10 lines show the religious belief from 10 aspects. You may choose 10 words for 10 aspects (1 from each line) in the following list:
+Good vs. Evil,
+Love vs. Indifference,
+Acceptance_Death vs. Fear_Death vs. Bravery_Death vs. Denial_Death vs. Honor_Death,
+Sacrifice vs. Selfishness,
+Redemption vs. Condemnation,
+Impartiality vs. Prejudice,
+Tolerance vs. Intolerance,
+Courage vs. Cowardice,
+Faith vs. Skepticism,
+Responsibility vs. Irresponsibility
+
+Please categorize {sample_in_prompt} according to the religious belief in the Harry Potter book series.

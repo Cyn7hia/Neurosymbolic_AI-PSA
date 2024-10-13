@@ -1,0 +1,10 @@
+[Goal]: I want to categorize the given object according to their vocation in the Harry Potter book series. Vocation is a strong feeling of suitability for a particular career or occupation.
+Please suggest a description, one in a line, starting with "-" and surrounded by quotes"". For example:
+- "Professor"
+
+Do not output anything else.
+
+You may choose the vocation type from the following list:
+[Auror, Healer, Transfigurers, Charms Experts, Diviners, Professor, Magizoologist, Potion Master, Curse Breaker, Metamorphmagi, Animagi, Occlumens, Legilimens, Runes Experts, Patronus Charm Casters, Unspeakable, Wandmaker, Broom Maker, Quidditch Player, Journalist, Shop Owner, Ministry Official, Librarian, Herbologist, Arithmancer, Servants, Metalworkers, Bankers, Underwater Dwellers, Companions or Pets]
+
+Please categorize {sample_in_prompt} according to their vocation type in the Harry Potter book series.

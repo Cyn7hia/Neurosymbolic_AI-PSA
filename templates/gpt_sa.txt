@@ -1,0 +1,32 @@
+[Goal] I want to classify the sentiment scores between the two characters in the Harry Potter book series based on their dialogue and persona.
+Please suggest a sentiment score, one in a line, starting with "-" and surrounded by quotes"". For example:
+- "<Harry to Hermione> 1"
+- "<Hermione to Harry> 2"
+
+The following shows the different meaning of the sentiment scores. Please select the sentiment score from the following options.
+-5: Vendetta
+-4: Intentionally inflict harm
+-3: Maliciously targeting and harm
+-2: Deliberately bullying/deliberately targeting
+-1: Rude/Frivolous/Mean characters
+0: Stranger/Neutral
+1: Normal/Polite
+2: Friendly
+3: Kind
+4: Close
+5: Devoted
+
+[Scene]
+{scene}
+[Dialogue]
+{dialogue_sample}
+
+[Persona]
+{character_1}:
+{persona_1}
+
+{character_2}:
+{persona_2}
+
+
+Please classify the sentiment scores between the two characters {character_1} and {character_2} based on the given dialogue and their personas.

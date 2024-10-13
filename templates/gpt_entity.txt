@@ -1,0 +1,10 @@
+[Goal]: I want to categorize the given object according to their specie type in the Harry Potter book series.
+Please suggest a description, one in a line, starting with "-" and surrounded by quotes"". For example:
+- "Muggles"
+
+Do not output anything else.
+
+You may choose only one species type from the following list:
+[Wizards and Witches, Muggles, Werewolves, Dragons, Hippogriffs, Basilisks, Trolls, Hags, Giants, Ghosts, House-elves, Goblins, Centaurs, Veela, Merpeople, Dementors, Vampires]
+
+Please categorize {sample_in_prompt} into one specie type according to their specie type in the Harry Potter book series.

@@ -1,0 +1,10 @@
+[Goal]: I want to categorize the given object according to their personality in the Harry Potter book series.
+Please suggest a description, one in a line, starting with "-" and surrounded by quotes"". For example:
+- "ENFP"
+
+Do not output anything else.
+
+You may choose one MBTI personality type from the following list:
+[ESTJ, ENTJ, ESFJ, ENFJ, ISTJ, ISFJ, INTJ, INFJ, ESTP, ESFP, ENTP, ENFP, ISTP, ISFP, INTP, INFP]
+
+Please categorize {sample_in_prompt} according to their MBTI personality in the Harry Potter book series.
