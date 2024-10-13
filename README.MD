@@ -21,7 +21,7 @@ Human-Computer Interaction](https://2024.hci.international/AI-HCI-program.html))
 >***Personality***, to better classify certain concepts as positive or negative based on personality traits;
 >finally, ***Subjectivity***, to take into account personal preferences and experiences.
 
-<div align="center"><img src="https://github.com/Cyn7hia/Neurosymbolic_AI-PSA/blob/main/paper/personalized_sa.pdf" height="300px"/></div>
+<div align="center"><img src="https://github.com/Cyn7hia/Neurosymbolic_AI-PSA/blob/main/paper/personalized_sa.png" height="300px"/></div>
 
 ## Dataset
 The dataset, Harry Potter Dialogue (HPD), can be downloaded from the [link](https://nuochenpku.github.io/HPD.github.io/).
