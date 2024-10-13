@@ -24,7 +24,7 @@ Human-Computer Interaction](https://2024.hci.international/AI-HCI-program.html))
 <div align="center"><img src="https://github.com/Cyn7hia/Neurosymbolic_AI-PSA/blob/main/paper/personalized_sa.png" height="300px"/></div>
 
 ## Dataset
-The dataset, Harry Potter Dialogue (HPD), can be downloaded from the [link](https://nuochenpku.github.io/HPD.github.io/).
+The original dataset, Harry Potter Dialogue (HPD), can be downloaded from the [link](https://nuochenpku.github.io/HPD.github.io/).
 
 ## Usage
 
