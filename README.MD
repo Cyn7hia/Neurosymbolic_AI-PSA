@@ -10,7 +10,7 @@
 
 ## Overview
 🔥 This is a repository for our paper ([Neurosymbolic AI for Personalized Sentiment Analysis](https://www.sentic.net/personalized-sentiment-analysis.pdf)) accepted in HCII'24 ([26th International Conference on
-Human-Computer Interaction](https://2024.hci.international/AI-HCI-program.html)). (Author list: Luyao Zhu, Rui Mao, Erik Cambria, and Bernard J. Jansen.)
+Human-Computer Interaction](https://2024.hci.international/AI-HCI-program.html)). (Author list: [Luyao Zhu](https://cyn7hia.github.io), [Rui Mao](https://maorui.wixsite.com/homepage), [Erik Cambria](https://sentic.net/erikcambria/), and [Bernard J. Jansen](https://www.hbku.edu.qa/en/staff/dr-bernard-jim-jansen).)
 >In this work, we propose a framework for personalized sentiment analysis that performs automatic user profiling by modeling users based on different levels of personalization, before performing sentiment analysis.
 >In particular, such framework leverages **seven** levels of personalization (from bottom to top), namely: 
 >***Entity***, to distinguish between humans and other intelligent agents;
